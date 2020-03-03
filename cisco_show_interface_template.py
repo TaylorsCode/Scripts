@@ -20,3 +20,8 @@ print(output)
 with open('Show_interface.txt','w') as f:
     f.write(output)
 
+
+    
+  # The above code provides the following
+  # logging into my cisco asa and grabbing a show interface config putting it into a file called show_interface.txt and closing the file
+  
